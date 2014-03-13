@@ -1075,14 +1075,14 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
 {
     int64 nSubsidy = 40000 * COIN;
 
-    // Subsidy is cut in half every 10800 blocks, which will occur approximately every 4 years
+    // Subsidy is cut in half every 10800 blocks
     nSubsidy >>= (nHeight / 10800);
 
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 14 * 24 * 60 * 60; // two weeks
-static const int64 nTargetSpacing = 10 * 60;
+static const int64 nTargetTimespan = 512; // 
+static const int64 nTargetSpacing = 8;
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //

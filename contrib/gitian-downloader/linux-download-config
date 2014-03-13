@@ -1,16 +1,12 @@
 --- 
 name: carpediemcoin
 urls:
-- http://coingen.io/carpediemcoin-latest-linux-gitian.zip
+- http://carpediem.com/carpediemcoin-latest-linux-gitian.zip
 rss:
 - url: http://sourceforge.net/api/file/index/project-id/244765/mtime/desc/limit/100/rss
   xpath: //item/link/text()
   pattern: carpediemcoin-\d+.\d+.\d+-linux-gitian.zip
 signers:
-  0A82509767C7D4A5D14DA2301AE1D35043E08E54:
-    weight: 40
-    name: BlueMatt
-    key: bluematt
   BF6273FAEF7CC0BA1F562E50989F6B3048A116B5:
     weight: 40
     name: Devrandom

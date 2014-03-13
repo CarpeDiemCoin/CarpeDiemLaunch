@@ -1,7 +1,7 @@
 --- 
 name: carpediemcoin
 urls:
-- http://coingen.io/carpediemcoin-latest-win32-gitian.zip
+- http://carpediem.com/carpediemcoin-latest-win32-gitian.zip
 rss:
 - url: http://sourceforge.net/api/file/index/project-id/244765/mtime/desc/limit/100/rss
   xpath: //item/link/text()

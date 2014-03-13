@@ -7,7 +7,7 @@ SetCompressor /SOLID lzma
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.8.6
 !define COMPANY "Carpediemcoin project"
-!define URL http://www.coingen.io/
+!define URL http://www.carpediem.com
 
 # MUI Symbol Definitions
 !define MUI_ICON "../share/pixmaps/carpediemcoin.ico"

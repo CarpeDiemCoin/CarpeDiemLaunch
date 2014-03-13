@@ -1,7 +1,5 @@
-Carpediemcoin integration/staging tree
+﻿Carpediemcoin integration/staging tree
 ================================
-
-http://www.coingen.io
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
@@ -15,7 +13,7 @@ out collectively by the network. Carpediemcoin is also the name of the open sour
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Carpediemcoin client software, see http://www.coingen.io.
+the Carpediemcoin client software, see http://www.carpediem.com.
 
 License
 -------

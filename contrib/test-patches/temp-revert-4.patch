@@ -1,5 +1,5 @@
 commit ca96b88b61f647d4f56d5d06321dda08a43bf92f
-Author: Matt Corallo <git@bluematt.me>
+Author: Carpe Diem <CarpeDiemCoinCDC@gmail.com>
 Date:   Sun Mar 24 20:46:01 2013 -0400
 
     Revert "CheckBlock rule until 15-May for 10,000 BDB lock compatibility"

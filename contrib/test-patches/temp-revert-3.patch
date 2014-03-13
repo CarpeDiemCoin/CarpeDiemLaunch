@@ -1,5 +1,5 @@
 commit ba84709c65b911798ddae1285d807f4cd036990d
-Author: Matt Corallo <git@bluematt.me>
+Author: Carpe Diem <CarpeDiemCoinCDC@gmail.com>
 Date:   Sun Mar 24 20:45:56 2013 -0400
 
     Revert "Before 15 May, limit created block size to 500K"
