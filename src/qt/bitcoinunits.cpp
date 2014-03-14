@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case CDC: return QString("CDC");
-    case mCDC: return QString("mCDC");
-    case uCDC: return QString::fromUtf8("μCDC");
+    case CDC: return QString("DIEM");
+    case mCDC: return QString("mDIEM");
+    case uCDC: return QString::fromUtf8("μDIEM");
     default: return QString("???");
     }
 }
